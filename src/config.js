@@ -1,12 +1,16 @@
 module.exports = {
-    token: "",
-    prefix: "",
-    ownerID: "",
+    token: "MTE4NjAwODY2MDY0ODkxOTI1Mg.GqMZyd.OMTSMkfMao42TTwDIt1zf94CpCy6YkcfLziG6Y",
+    prefix: "-",
+    ownerID: "695309214037573753",
     SpotifyID: "",
     SpotifySecret: "",
-    mongourl: "",
-    embedColor: "",
-    logs: "",
+    mongourl: "mongodb+srv://remixbot:
+
+remixbot0709@cluster0.mi0en.mongodb.net /myFirstDatabase?retryWrites=true&w=
+
+majority",
+    embedColor: "RANDOM",
+    logs: "1186017918123769916", //Log channel join w left
 
   nodes: {
      
